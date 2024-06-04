@@ -1,0 +1,85 @@
+que 1-man
+
+que 2-linux
+
+que 3-
+/home/sunbeam/ospractise
+
+ 4-
+ sunbeam-Lenovo-IdeaPad-S340-15IWL
+
+5-  May 2024        
+Su Mo Tu We Th Fr Sa  
+          1  2  3  4  
+ 5  6  7  8  9 10 11  
+12 13 14 15 16 17 18  
+19 20 21 22 23 24 25  
+26 27 28 29 30 31 
+
+6-ls
+
+7-dir
+
+8-cat 
+cat movie1.txt
+cat >>movie1.txt
+appended content
+
+9-cat >>
+cat >>movie1.txt
+appended content
+
+10-cp
+cp /home/sunbeam/Struct/temp/movies/bw/movie1.txt /home/sunbeam/OsAssi/assi-1/
+
+11.mv
+/home/sunbeam/Struct/
+
+12-tac,rev
+tac hw/movie1.txt
+appended content
+this is first movie
+
+<pre>rev hw/movie1.txt
+eivom tsrif si siht
+tnetnoc dedneppa
+</pre>
+
+13.wc
+wc hw/movie1.txt
+ 2  6 37 hw/movie1.txt
+
+14.mkdir
+<pre>mkdir diectory1</pre>
+
+15.cd ..
+
+16.
+rmdir diectory1
+
+
+17.rm movie1.txt
+
+18.rmdir diectory1
+
+19.rw-rw-r-- 1 sunbeam sunbeam 5 May 31 22:28 movies1.txt
+
+20.sort
+sort -r movies1.txt
+sumit
+sandip
+helloram
+amey
+
+21.truncate --help
+
+22.head
+truncate --help
+
+23.tail
+tail -n 2 movies2.txt
+
+
+
+
+
